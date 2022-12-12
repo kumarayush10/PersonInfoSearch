@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-wikipedia": "0.0.2",
     "request": "^2.88.2",
     "wiki-infobox-parser": "^0.1.11",
